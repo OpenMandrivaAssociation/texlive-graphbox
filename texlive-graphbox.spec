@@ -1,6 +1,6 @@
 Name:		texlive-graphbox
 Version:	46360
-Release:	1
+Release:	2
 Summary:	Extend graphicx to improve placement of graphics
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/graphbox
