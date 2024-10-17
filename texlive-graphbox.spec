@@ -3,7 +3,7 @@ Version:	46360
 Release:	2
 Summary:	Extend graphicx to improve placement of graphics
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/graphbox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/graphbox
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/graphbox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/graphbox.doc.r%{version}.tar.xz
